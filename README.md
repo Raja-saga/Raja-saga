@@ -17,7 +17,7 @@ src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo
 ---
 
 ## ■ About Me
-```yaml
+
 name: RAJAGANESH S
 education: MCA - Anna University
 role: Junior Product Engineer
